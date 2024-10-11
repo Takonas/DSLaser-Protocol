@@ -1,6 +1,6 @@
 # Hello Students!
 
-### Assignment 3 Material
+### Assignment 2 Material
 
 The following should be found in this directory:
 RFC - Assignment 2.pdf
