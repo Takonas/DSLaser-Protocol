@@ -3,8 +3,8 @@
 ### Assignment 3 Material
 
 The following should be found in this directory:
-RFC - Assignment 3.pdf
-Assignment 3.pdf
+RFC - Assignment 2.pdf
+Assignment 2.pdf
 The deathstarserver.exe
 
 ### Assistance
