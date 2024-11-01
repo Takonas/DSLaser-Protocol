@@ -5,9 +5,9 @@ This was a mini-CTF designed for the Fall Semester of CSC 4501 Networking for LS
 ## Resources to be distributed
 
 The following should be distributed to the students:
-RFC - Assignment 2.pdf
-Assignment 2.pdf
-The deathstarserver.exe
+\RFC - Assignment 2.pdf
+\Assignment 2.pdf
+\The deathstarserver.exe
 
 ## Regarding the Client/Server Folders
 
